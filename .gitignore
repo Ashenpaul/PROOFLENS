@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+proof_artifacts/*.py
+proof_artifacts/*.json
+.vscode/
+.idea/
