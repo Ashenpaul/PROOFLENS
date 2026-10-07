@@ -1,0 +1,51 @@
+[
+  {
+    "customer_id": "CUST-01",
+    "name": "Acme Corp",
+    "tier": "Enterprise",
+    "country": "USA",
+    "credit_limit": 50000
+  },
+  {
+    "customer_id": "CUST-02",
+    "name": "GlobalTech",
+    "tier": "Mid-Market",
+    "country": "Canada",
+    "credit_limit": 20000
+  },
+  {
+    "customer_id": "CUST-03",
+    "name": "EuroSystems",
+    "tier": "Enterprise",
+    "country": "Germany",
+    "credit_limit": 45000
+  },
+  {
+    "customer_id": "CUST-04",
+    "name": "London Dynamics",
+    "tier": "SMB",
+    "country": "UK",
+    "credit_limit": 10000
+  },
+  {
+    "customer_id": "CUST-05",
+    "name": "Vanguard Labs",
+    "tier": "Mid-Market",
+    "country": "USA",
+    "credit_limit": 25000
+  },
+  {
+    "customer_id": "CUST-06",
+    "name": "Parisian Analytics",
+    "tier": "Enterprise",
+    "country": "France",
+    "credit_limit": 35000
+  },
+  {
+    "customer_id": "CUST-07",
+    "name": "Tokyo AI Ltd",
+    "tier": "Enterprise",
+    "country": "Japan",
+    "credit_limit": 60000
+  }
+]

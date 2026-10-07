@@ -1,0 +1,7 @@
+product_id,product_name,category,status,discontinued_date,base_cost_usd
+PROD-101,Cloud Storage 1TB,Cloud,active,,40.0
+PROD-102,AI Inference Engine,AI,active,,150.0
+PROD-103,Enterprise Security Gateway,Security,active,,320.0
+PROD-104,Legacy Dial-up Connector,Hardware,discontinued,2021-12-31,15.0
+PROD-105,Quantum Simulator V1,AI,discontinued,2022-06-30,500.0
+PROD-106,Edge Analytics Sensor,IoT,active,,75.0

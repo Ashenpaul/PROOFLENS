@@ -1,0 +1,4 @@
+region,fiscal_year,reported_revenue_usd,audited,notes
+North America,2023,6800.0,True,Audited by KPMG
+Europe,2023,5120.0,True,Audited by EY
+APAC,2023,2500000.0,False,UNAUDITED CONFLICT: Flash estimates from regional sales lead
